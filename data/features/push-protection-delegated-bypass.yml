@@ -1,4 +1,0 @@
-# Issue 10362 - Push protection delegated bypass
-versions:
-  ghec: '*'
-  ghes: '>=3.14'
